@@ -16,7 +16,7 @@
 #    print(book.get_author())  # prints "Author: Natalie Zina Walschots"
 #    print(book.get_title())   # prints "Title: Hench"
 #
-# There is pseudocode availabe for you to guide you
+# There is pseudocode available for you to guide you
 
 
 # class Book

@@ -20,7 +20,7 @@
 # You may want to look at the ".lower()" method for strings to
 # help with this code.
 #
-# There is pseudocode availabe for you to guide you
+# There is pseudocode available for you to guide you
 
 
 # class Employee
