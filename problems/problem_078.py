@@ -6,7 +6,7 @@
 #    * radius, a non-negative value
 #
 # Behavior:
-#    * calculate_perimeter()  # Returns the length of the perimater of the circle
+#    * calculate_perimeter()  # Returns the length of the perimeter of the circle
 #    * calculate_area()       # Returns the area of the circle
 #
 # Example:
@@ -19,6 +19,3 @@
 # at the last one you just wrote unless you really must.
 
 import math
-
-
-
