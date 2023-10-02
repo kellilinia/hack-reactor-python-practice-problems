@@ -13,4 +13,7 @@
 # problem to get a good feel for how to solve it.
 
 def is_palindrome(word):
-    pass
+    word_backwards = word[::-1]
+    if word == word_backwards:
+        return True
+    return False
