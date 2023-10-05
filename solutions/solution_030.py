@@ -24,4 +24,3 @@ def find_second_largest(values):
         elif second_largest is None or value > second_largest:
             second_largest = value
     return second_largest
-
