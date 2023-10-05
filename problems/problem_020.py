@@ -3,4 +3,6 @@
 # to 50% of the number of people in the members list.
 
 def has_quorum(attendees_list, members_list):
-    pass
+    if attendees_list >= (members_list*0.5):
+        return True
+    return False
