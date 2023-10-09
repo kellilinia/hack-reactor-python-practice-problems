@@ -16,4 +16,9 @@
 # problem to get a good feel for how to solve it.
 
 def sum_of_first_n_even_numbers(n):
-    pass
+    if n < 0:
+        return None
+    count = 0
+    for i in range(n + 1):
+        count = count + i * 2
+    return count
